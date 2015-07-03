@@ -2,30 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
- 	<array>
-			<dict>
-				<key>assets</key>
-				<array>
-					<dict>
-						<key>kind</key>
-						<string>software-package</string>
-						<key>url</key>
-						<string>http://www.518xb.com/mobile/Fish3in1.ipa</string>
-					</dict>
-				</array>
-				<key>metadata</key>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
 				<dict>
-					<key>bundle-identifier</key>
-					<string>com.test.yu</string>
-					<key>bundle-version</key>
-					<string>1.0</string>
 					<key>kind</key>
-					<string>software</string>
-					<key>title</key>
-					<string>鱼虾蟹</string>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://www.518xb.com/mobile/yxx.ipa</string>
 				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ten.yxx</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>鱼虾蟹</string>
 			</dict>
+		</dict>
 	</array>
 </dict>
 </plist>
